@@ -12,6 +12,8 @@ namespace Aplikacja_okienkowa
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            DatabaseManager db = new DatabaseManager();
+            //db.EnsureOrdersTableExists();
         }
     }
 }

@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:aplikacja_okienkowa.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|c:\\users\\huhle\\desktop\\wsiiz\\sem3\\obiektowe\\projekt-aplikacja okienkowa\\aplikacja_okienkowa\\aplikacja_okienkowa\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77A47A79-8C56-4770-8102-7387F980E48B}|Aplikacja_okienkowa.csproj|solutionrelative:databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +54,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwEYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:15:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAawDIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:13:38.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:32:47.836Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:30:18.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAwKgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T21:29:57.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Aplikacja_okienkowa.csproj",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa.csproj",
+              "RelativeDocumentMoniker": "Aplikacja_okienkowa.csproj",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa.csproj",
+              "RelativeToolTip": "Aplikacja_okienkowa.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-11T19:20:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\DatabaseManager.cs",
+              "RelativeToolTip": "DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:21:20.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:11:50.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:13:13.388Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:06:31.247Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

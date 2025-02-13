@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aplikacja_okienkowa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7755b7cbbbe8d97776856038c96a1fceb12b6fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a353a2e88c37a4be2ef1e2b60b6af9bdb3256c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aplikacja_okienkowa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aplikacja_okienkowa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
