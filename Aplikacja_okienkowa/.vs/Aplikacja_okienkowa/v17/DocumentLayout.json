@@ -54,16 +54,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -109,7 +101,7 @@
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwCgAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T21:30:18.999Z",
               "EditorCaption": ""
@@ -124,8 +116,7 @@
               "RelativeToolTip": "Form2.Designer.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAAwKgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T21:29:57.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T21:29:57.582Z"
             },
             {
               "$type": "Document",
@@ -137,8 +128,7 @@
               "RelativeToolTip": "Aplikacja_okienkowa.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-11T19:20:51.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-11T19:20:51.76Z"
             },
             {
               "$type": "Document",
@@ -166,6 +156,14 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form3.cs [Design]",
@@ -174,8 +172,7 @@
               "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form3.cs [Design]",
               "RelativeToolTip": "Form3.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T20:13:13.388Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-12T20:13:13.388Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:06:31.247Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-11T20:06:31.247Z"
             },
             {
               "$type": "Document",
@@ -198,8 +194,7 @@
               "ToolTip": "C:\\Users\\Huhle\\Desktop\\WSIiZ\\Sem3\\obiektowe\\Projekt-aplikacja okienkowa\\Aplikacja_okienkowa\\Aplikacja_okienkowa\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T19:36:55.612Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-10T19:36:55.612Z"
             }
           ]
         }
